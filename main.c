@@ -20,6 +20,7 @@ int main(int argc, char** argv) {
     int v[4];
     int soma = 0;
     int mult = 1;
+    // nao entendi a declaracao de variaveis, multiplicacao por 1 e soma 0
     for (int i = 0; i < 5; i++) {
         printf("Digite um número para o vetor posição %d: ", i);
         scanf("%d", &v[i]);
